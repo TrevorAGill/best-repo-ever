@@ -6,3 +6,5 @@ By Trevor Gill
 Slalom Consulting
 
 The purpose of this repo is to relearn fluency with git, github, and VS Code. That is all.
+
+This is a second update.
